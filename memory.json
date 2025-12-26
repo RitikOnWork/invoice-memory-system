@@ -1,0 +1,8 @@
+[
+  {
+    "vendor": "Supplier GmbH",
+    "sourceField": "Leistungsdatum",
+    "targetField": "serviceDate",
+    "confidence": 0.7
+  }
+]
